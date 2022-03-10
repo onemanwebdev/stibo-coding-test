@@ -1,0 +1,8 @@
+.collection-tabs {
+  display: flex;
+  padding: 1rem;
+}
+
+.collection-tab {
+  padding: 1rem;
+}

@@ -1,0 +1,7 @@
+.app-wrapper {
+  display: flex;
+}
+
+.my-fav-pics {
+  padding: 3rem;
+}
